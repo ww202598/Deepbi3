@@ -1,0 +1,1 @@
+import{j as s}from"./react-vendor-D3qircUs.js";import{C as n}from"./index-DrfQSy8k.js";const o="_panel_8z9mu_1",m={panel:o};function p({title:a,extra:e,children:r,ariaLabel:l}){return s.jsx(n,{title:a,extra:e,className:m.panel,size:"small",children:s.jsx("div",{role:"img","aria-label":l||a,children:r})})}export{p as C};

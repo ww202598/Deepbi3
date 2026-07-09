@@ -1,0 +1,1 @@
+import{j as r,L as t}from"./react-vendor-D3qircUs.js";import{ar as s,a3 as e}from"./index-D_Nq2Ova.js";function o(){return r.jsx(s,{status:"500",title:"500",subTitle:"服务器异常，请稍后重试。",extra:r.jsx(t,{to:"/",children:r.jsx(e,{type:"primary",children:"返回首页"})})})}export{o as default};

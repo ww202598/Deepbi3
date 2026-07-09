@@ -1,0 +1,1 @@
+import{j as t,L as r}from"./react-vendor-D3qircUs.js";import{ar as s,a3 as a}from"./index-VRfPbobe.js";function i(){return t.jsx(s,{status:"404",title:"404",subTitle:"抱歉，您访问的页面不存在。",extra:t.jsx(r,{to:"/",children:t.jsx(a,{type:"primary",children:"返回首页"})})})}export{i as default};

@@ -1,0 +1,1 @@
+import{j as t,L as r}from"./react-vendor-D3qircUs.js";import{ar as s,a3 as e}from"./index-VRfPbobe.js";function o(){return t.jsx(s,{status:"403",title:"403",subTitle:"抱歉，您没有权限访问此页面。",extra:t.jsx(r,{to:"/",children:t.jsx(e,{type:"primary",children:"返回首页"})})})}export{o as default};
